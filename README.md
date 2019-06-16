@@ -6,6 +6,8 @@ Aight to to get started, make a venv or conda env and install all the required m
 
 Once you've done all that boring shit, then run redditbutbetter.py. This should work on a mac, however if you don't have a mac, then fuck you. Get a mac.
 
+*Note: you might have to tweak the pyautogui click coordinates a bit depending on your computer to make it click on the right spot. I have a macbook pro idk what you all have.
+
 This project is pretty stupid ngl. But it was fun to do so yeah. 
 
 -Suhas Nandiraju 
